@@ -4,7 +4,7 @@
 //  click "Export Model" → "Upload (shareable link)"
 //  and paste the URL here (keep the trailing slash).
 // ─────────────────────────────────────────────
-const MODEL_URL = "https://teachablemachine.withgoogle.com/models/jwQUoeWCp/";
+const MODEL_URL = "https://teachablemachine.withgoogle.com/models/45OxSm45g/";
 
 // Class names must exactly match what you named them in Teachable Machine
 const CLASS_ROCK     = "Rock";
